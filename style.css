@@ -1,0 +1,11 @@
+body {
+background-color: rgb(191, 210, 245);
+}
+
+.wrapper {
+margin: auto;
+padding: 16px;
+background-color: aliceblue;
+border-radius: 20px;
+width: 800px;
+}
